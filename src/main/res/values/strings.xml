@@ -1,0 +1,8 @@
+<resources>
+    <string name="error_query_path_null">Query and Path Required.</string>
+    <string name="empity_value_error">No value to add in database.</string>
+    <string name="email_err">Email is empity</string>
+    <string name="password_err">Password is empity</string>
+    <string name="signup_failed">Sign Up Failed</string>
+    <string name="login_failed">Credential mismatch</string>
+</resources>
